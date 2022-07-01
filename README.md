@@ -1,4 +1,6 @@
-# Basic Sample Hardhat Project
+# Basic Sample Hardhat Project - Creating ThunderItem NFT Token
+
+>nft token contract address: 0xbd6Bd59a8785C5e54a77985245fF99449897650b
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
 
